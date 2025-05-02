@@ -9,6 +9,6 @@ These are PCBs being used to analyze the different components & connectors of th
 
 
 ### Replacement PCBS
-- A replacement LED PCB. Single sided aluminium PCB, wires or FPC needs to be soldered to front. The LEDs have integrated lenses, as opposed to the discrte collimators on the original. The leds are the HSM*-C320 series. Two boards stacked on top of eachother are required. There are no affordances for optical alignment as of yet.
+- A replacement LED PCB. Single sided aluminium PCB, wires or FPC needs to be soldered to front. The LEDs have integrated lenses, as opposed to the discrete collimators on the original. The leds are the HSM*-C320 series. Two boards stacked on top of eachother are required. There are no affordances for optical alignment as of yet.
 	- All of the grounds for the LEDs are connected, though you could flip them and have their sources connected.
 - A PCB to convert displayport into 2 sets of MIPI DSI for use with the Magic Leap's LCOS displays. The main chip on board is the TC358860XBG. You may have to buy it from aliexpress.
